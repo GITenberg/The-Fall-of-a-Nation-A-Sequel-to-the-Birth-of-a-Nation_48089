@@ -1,4 +1,5 @@
 _repo: The-Fall-of-a-Nation-A-Sequel-to-the-Birth-of-a-Nation_48089
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Wrenn, Charles L. (Charles Lewis)
@@ -6,6 +7,9 @@ contributor:
     deathdate: 1952
     gutenberg_agent_id: '25468'
     url: http://www.gutenberg.org/2009/agents/25468
+covers:
+- cover_type: archival
+  image_path: 48089-h/images/cover.jpg
 creator:
   author:
     agent_name: Dixon, Thomas
@@ -16,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/679
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Dixon,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48089#The-Fall-of-a-Nation-A-Sequel-to-the-Birth-of-a-Nation
 gutenberg_issued: '2015-01-26'
 gutenberg_type: Text
 identifiers:
